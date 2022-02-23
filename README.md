@@ -21,9 +21,9 @@
 <br />	
 
 ### Escribeme, Hablemos
-[<img align="left" alt="Enmanuel Santos Diaz | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]	
+[<img align="left" alt="EnmanuelSantosDiaz | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]	
 
-[<img align="left" alt="Enmanuel Santos Diaz | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]	
+[<img align="left" alt="EnmanuelSantosDiaz | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]	
 
 <br />	
 <br />	
@@ -31,5 +31,7 @@
 
 [whatsapp]: https://api.whatsapp.com/send/?phone=18298668227&text=i+got+u+from+github&app_absent=0
 
-[telegram]: https://t.me/Enmasdiaz1 ##Puedes Contactarme, Mi Nombre es Enmanuel Santos.- [Enmasdiaz](https://www.github.com/Enmasdiaz1)
+[telegram]: https://t.me/Enmasdiaz1 
+
+##Puedes Contactarme, Mi Nombre es Enmanuel Santos.- [Enmasdiaz](https://www.github.com/Enmasdiaz1)
 
